@@ -35,8 +35,7 @@
 
 <!-- Actual text -->
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=nikichy&show_icons=true&theme=radical&count_private=true" alt="github stats" width="500" height="400"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=nikichy&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikichy"/> -->
   
 </div>
