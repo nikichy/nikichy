@@ -3,6 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=nikichy.nikichy)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ### I am Nikita Rani - Python and ML Enthusiast 
+<img align="right" alt="GIF" src="./index.gif" width="400" height="250" />
   
 <details>
   <summary>🧑 More about me</summary>
@@ -72,7 +73,7 @@
 
 
 <br />
-<img align="right" alt="GIF" src="./index.gif" width="400" height="250" />
+
 <!-- Actual text -->
 
 <br/>
