@@ -43,7 +43,7 @@
 
 - 📈 GitHub stats
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=nikichy&theme=dracula"/>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" /> -->
 </div>
 
 
