@@ -1,5 +1,7 @@
 ![](./index.gif)
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.willmcgugan.com">Will McGugan</a>            
+<span style="color: #000080; text-decoration-color: #000080">║</span> I'm a freelance software developer<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Python expert   
 ### I am Nikita Rani - Python and ML Enthusiast 
 <a href="https://www.instagram.com/nikichy_/">
   <img align="left" alt="Naman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
