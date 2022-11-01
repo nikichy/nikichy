@@ -25,15 +25,11 @@
 - 📫 How to reach me: Ping me on nikichy7782@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
+- 💼 any freelance work? do reach, [email](mailto:nikichy7782@gmail.com) :)
 
 <!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" /> -->
  
- 
 
- 
- 
-
-- 💼 any freelance work? do reach, [email](mailto:nikichy7782@gmail.com) :)
 
 <!-- Actual text -->
 <div>
