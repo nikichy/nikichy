@@ -18,16 +18,29 @@
 
 <br />
  
+<details>
+  <summary>🧑 More about me</summary>
 
 - 🔭 I’m currently working on Python Applications and Machine Learning
+ 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
+ 
 - 👯 I’m looking to collaborate on Python Projects
+ 
 - 🤔 I’m looking for help with bugs and problem occurs during Python Development
+ 
 - 💬 Ask me about Python Scripts and Machine Learning,I am happy to help;
+ 
 - 📫 How to reach me: Ping me on nikichy7782@gmail.com
+ 
 - 😄 Pronouns: ...
+ 
 - ⚡ Fun fact: No one other better understands the code of a problem than his writer
+ 
 - 💼 any freelance work? do reach, [email](mailto:nikichy7782@gmail.com) :)
+
+</details>
+
 
 <!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" /> -->
  
