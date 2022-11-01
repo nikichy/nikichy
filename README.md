@@ -39,7 +39,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=nikichy&show_icons=true&theme=radical&count_private=true" alt="github stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikichy"/>
+<img src="https://github-readme-stats.vercel.app/api/most-langs?username=nikichy"/>
   
 </div>
 <br/>
