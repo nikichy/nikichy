@@ -1,8 +1,9 @@
 <!-- ![](./index.gif) -->
- <img alt="GIF" src="./index.gif" width="500" height="400" />
+
 
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ### I am Nikita Rani - Python and ML Enthusiast 
+ <img align="right" alt="GIF" src="./index.gif" width="400" height="400" />
 <a href="https://www.instagram.com/nikichy_/">
   <img align="left" alt="Naman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
